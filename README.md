@@ -9,3 +9,19 @@ Developed an iOS app built with Swift and SwiftUI for tracking personal expenses
 - **Swift** for core programming
 - **Core Data** for data persistence
 - **SwiftUI** for UI and navigation
+
+## How to run this app
+
+### Prerequisites
+- **Xcode**: Requires Xcode 12 or later. Download from the [Mac App Store](https://apps.apple.com/us/app/xcode/id497799835).
+- **macOS**: Requires macOS Catalina (10.15) or later.
+
+### Installation
+1. **Clone the Repository**  
+   Open Terminal and run the following command to clone this repository:
+   ```bash
+   git clone https://github.com/joshuafitzerald/ExpenseTrackerApp.git
+
+  or try
+
+    git clone https://github.com/joshuafitzerald/ExpenseTrackerApp
